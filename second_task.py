@@ -20,4 +20,5 @@ def get_numbers_ticket(min, max, quantity):
     lottery_numbers.sort()
     return lottery_numbers
 
-print(get_numbers_ticket(min,max,quantity))
+lottery_numbers = get_numbers_ticket(min, max, quantity)
+print(lottery_numbers)
