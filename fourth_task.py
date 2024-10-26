@@ -42,4 +42,4 @@ def get_upcoming_birthdays(num):
 
 
 upcoming_birthdays = get_upcoming_birthdays(users)
-print("Список привітань на цьому тижні:", upcoming_birthdays)
+print("Список привітань на цьому тижні:", upcoming_birthdays) 
